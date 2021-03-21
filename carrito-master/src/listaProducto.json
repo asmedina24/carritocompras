@@ -1,0 +1,42 @@
+{
+    "listaProductos":[
+        {
+            "texto":"Pollo, Carne, Cocino", 
+            "precio": "10.000",
+            "imagen":"https://i.imgur.com/EN8qdnN.png",
+            "stock" : "2",
+            "titulo": "Hamburguesa Triple "
+        },
+
+        {
+            "titulo":"Hamburguesa sencilla de pollo",
+            "texto":"Pollo y ensalada",
+            "precio":"7.500",
+            "imagen":"https://i.imgur.com/EN8qdnN.png",
+            "stock" : "14"
+
+
+        },
+
+        {
+            "titulo":"Hamburguesa sencilla de Carne",
+            "texto":"Carne  y ensalada",
+            "precio":"7.500",
+            "imagen":"https://i.imgur.com/EN8qdnN.png",
+            "stock" : "10"
+
+
+        },
+
+        {
+            "titulo":"Hamburguesa Vegana",
+            "texto":"Lenteja y Vegetales",
+            "precio":"7.000",
+            "imagen":"https://i.imgur.com/EN8qdnN.png",
+            "stock" : "19"
+
+
+        }
+
+    ]
+}
